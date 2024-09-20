@@ -6,5 +6,5 @@ The data used for this project us sourced from the European Climate Assessment &
 - [Weather Conditions Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv)
 - [Pleasant Weather Dataset](https://images.careerfoundry.com/public/courses/da-spec-ml/Scripts/A1/Dataset-Answers-Weather_Prediction_Pleasant_Weather.csv)
 ### Tools
-    - Jupyter Notebook
-    - Python
+- Jupyter Notebook
+- Python
