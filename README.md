@@ -1,5 +1,5 @@
 # ClimateWins
-This ML project for ClimateWins will help the company predict how Climate Change will affect Europe using data on weather conditions from weather stations across Europe.
+This Machine Learning project for ClimateWins will help the company predict how Climate Change will affect Europe and after that, the rest of the world, using data on weather conditions from weather stations across Europe.
 
 ### Data
 The data used for this project us sourced from the European Climate Assessment & Data Set project. It consists of daily records from 18 diferent weather stations measuring wind speed, temperature, snow level etc.
